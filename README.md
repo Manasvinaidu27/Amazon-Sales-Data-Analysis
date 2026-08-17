@@ -62,6 +62,8 @@ A Power BI dashboard template (`.pbit`) is included in this repository.
 The dashboard is intended to provide an interactive view of Amazon sales/product data through charts, filters, KPIs, and visual analysis.
 
 > **Note:** The `.pbit` file is a Power BI template. To open and interact with it, Microsoft Power BI Desktop is required.
+> <img width="905" height="501" alt="image" src="https://github.com/user-attachments/assets/27d3540a-a02b-48b8-9afa-97c2966a333b" />
+
 
 ## 📂 Project Structure
 
